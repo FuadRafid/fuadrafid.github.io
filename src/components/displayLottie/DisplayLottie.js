@@ -13,7 +13,7 @@ export default class DisplayLottie extends Component {
 
     return (
       <Suspense fallback={<Loading />}>
-        <Lottie
+        <Lottie style={{height: this.props.height, marginTop: this.props.marginTop, marginBottom: this.props.marginBottom}}
           animationData={defaultOptions.animationData}
           loop={defaultOptions.loop}
         />

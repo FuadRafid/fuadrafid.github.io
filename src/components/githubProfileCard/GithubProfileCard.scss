@@ -76,6 +76,7 @@
   .image-content-profile {
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     order: 1;
   }
 
@@ -88,8 +89,9 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    max-width: 250px;
+    max-width: 200px;
     height: auto;
+    margin-top: 10px;
   }
 
   .profile-image:hover {
