@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.16994d3e.css",
-    "main.js": "/static/js/main.99f36238.js",
+    "main.js": "/static/js/main.c743a61c.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/js/64.ce924aed.chunk.js": "/static/js/64.ce924aed.chunk.js",
     "static/css/769.d40cbc67.chunk.css": "/static/css/769.d40cbc67.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.72bc388d.chunk.js": "/static/js/769.72bc388d.chunk.js",
     "static/media/mist.png": "/static/media/mist.027b5cb3f070c1edb3a1.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/ualberta_shield.png": "/static/media/ualberta_shield.074e43b25a66ac0e7c6c.png",
@@ -20,14 +20,14 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.16994d3e.css.map": "/static/css/main.16994d3e.css.map",
-    "main.99f36238.js.map": "/static/js/main.99f36238.js.map",
+    "main.c743a61c.js.map": "/static/js/main.c743a61c.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "64.ce924aed.chunk.js.map": "/static/js/64.ce924aed.chunk.js.map",
     "769.d40cbc67.chunk.css.map": "/static/css/769.d40cbc67.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+    "769.72bc388d.chunk.js.map": "/static/js/769.72bc388d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16994d3e.css",
-    "static/js/main.99f36238.js"
+    "static/js/main.c743a61c.js"
   ]
 }
