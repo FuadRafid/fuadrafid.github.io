@@ -88,6 +88,22 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-microsoft"
     },
     {
+      skillName: "Spring-Boot",
+      fontAwesomeClassname: "fa fa-leaf"
+    },
+    {
+      skillName: "Hibernate",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "FastAPI",
+      fontAwesomeClassname: "fa fa-bolt"
+    },
+    {
+      skillName: "ASP .Net Core",
+      fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
       skillName: "React.js",
       fontAwesomeClassname: "fab fa-react"
     },
@@ -267,11 +283,17 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "Publications and Blogs",
   subtitle:
     "As I learn new things, I love to write and share the knowledge.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
+    {
+      url: "https://ieeexplore.ieee.org/document/8281816",
+      title: "Explorer-0100: An autonomous next generation Mars rover",
+      description:
+          "Conference paper at 20th international conference of computer and information technology (ICCIT)"
+    },
     {
       url: "https://dev.to/fuadrafid/fastapi-the-good-the-bad-and-the-ugly-20ob",
       title: "FastAPI - The Good, the bad and the ugly",
